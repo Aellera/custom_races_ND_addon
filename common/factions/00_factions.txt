@@ -149,3 +149,40 @@ rr_girondists =
 		ae_impact = 0.2
 	}
 }
+
+########################################
+# Merchant Monarchy Factions
+########################################
+
+mm_expansionists = 
+{
+	monarch_power = ADM
+	always = yes
+	
+	modifier = 
+	{
+		
+	}
+}
+
+mm_traders = 
+{
+	monarch_power = DIP
+	always = yes
+	
+	modifier = 
+	{
+		
+	}
+}
+
+mm_traditionalists = 
+{
+	monarch_power = MIL
+	always = yes
+	
+	modifier = 
+	{
+		
+	}
+}
