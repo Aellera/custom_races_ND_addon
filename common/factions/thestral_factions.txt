@@ -1,0 +1,38 @@
+
+
+########################################
+# Merchant Monarchy Factions # Cijik
+########################################
+
+mm_expansionists = 
+{
+	monarch_power = ADM
+	always = yes
+	
+	modifier = 
+	{
+		
+	}
+}
+
+mm_traders = 
+{
+	monarch_power = DIP
+	always = yes
+	
+	modifier = 
+	{
+		
+	}
+}
+
+mm_traditionalists = 
+{
+	monarch_power = MIL
+	always = yes
+	
+	modifier = 
+	{
+		
+	}
+}
