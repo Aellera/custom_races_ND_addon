@@ -1,7 +1,7 @@
 government = merchant_monarchy
 government_rank = 2
 technology_group = thestral
-religion = orthidix
+religion = orthodox
 primary_culture = transylvanian
 capital = 358 				#Iško
 
