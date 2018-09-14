@@ -1,0 +1,44 @@
+government = merchant_monarchy
+government_rank = 2
+technology_group = thestral
+religion = orthidix
+primary_culture = transylvanian
+capital = 358 				#Iško
+
+1429.4.10 = {
+	monarch = {
+		name = "Nightlight"
+		dynasty = "Charm"
+		birth_date = 1412.2.27
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 2
+    }
+	add_ruler_personality = just_personality
+	add_ruler_personality = kind_hearted_personality
+	
+	queen = {
+		country_of_origin = ISH
+		name = "Star"
+		dynasty = "Streaks"
+		birth_date = 1410.1.19
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+	add_queen_personality = kind_hearted_personality
+}
+
+1430.3.15 = {
+	heir = {
+		name = "Blueberry"
+		dynasty = "Charm"
+		birth_date = 1430.3.15
+		female = yes
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
