@@ -55,3 +55,51 @@ merchant_monarchy = {
 		}
 	}
 }
+
+# Tzyca
+old_imperial_government = {
+	monarchy = yes
+	
+	color = { 232 153 255 }
+	
+	valid_for_new_country = no
+	
+	ai_will_do = {
+		factor = 0
+	}
+	
+	ai_importance = 4
+	
+	has_parliament = yes
+	allow_westernize = no
+	maintain_dynasty = yes
+	
+	
+	faction = imp_traditionalists
+	faction = imp_nobility
+	faction = imp_guilds
+
+	max_states = 3
+
+	
+	rank = {
+		1 = {
+			female_advisor_chance = 0.5
+			administrative_efficiency = 0.2
+			global_unrest = -1
+			legitimacy = 2
+		}
+		2 = {
+			female_advisor_chance = 0.5
+			administrative_efficiency = 0.3
+			global_unrest = -2.5
+			legitimacy = 2.5
+		}
+		3 = {	
+			female_advisor_chance = 0.5
+			administrative_efficiency = 0.4
+			global_unrest = -4
+			legitimacy = 3
+		}
+	}
+}

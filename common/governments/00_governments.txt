@@ -260,45 +260,6 @@ revolutionary_empire = {
 	fixed_rank = 3
 }
 
-merchant_monarchy = {
-	monarchy = yes
-	
-	color = { 173 247 243 }
-	
-	valid_for_new_country = no
-	
-	boost_income = yes
-	can_use_trade_post = yes
-	
-	faction = mm_expansionists
-	faction = mm_traders
-	faction = mm_traditionalists
-	
-	ai_will_do = {
-		factor = 0
-	}
-	
-	max_states = 2
-	
-	
-	rank = {
-		1 = {
-			merchants = 1
-			caravan_power = 0.33
-		}
-		2 = {
-			merchants = 1
-			caravan_power = 0.33
-			global_autonomy = -0.05
-		}
-		3 = {
-			merchants = 1
-			caravan_power = 0.33
-			global_autonomy = -0.075
-		}
-	}
-}
-
 
 ####################################
 #
