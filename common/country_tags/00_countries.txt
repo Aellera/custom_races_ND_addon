@@ -3,6 +3,10 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
+#Thestral Nations
+ISH = "countries/Ishkertsa.txt"
+ISH = "countries/Zestryska.txt"
+
 #Scandinavia
 SWE	= "countries/Sweden.txt"
 DAN	= "countries/Denmark.txt"
@@ -321,7 +325,6 @@ TGT = "countries/Touggourt.txt"
 GHD = "countries/Ghadames.txt"
 FZA = "countries/Fezzan.txt"
 MZB = "countries/Mzab.txt"
-ISH = "countries/Ishkertsa.txt"
 
 #Central Asia
 KZH	= "countries/Kazakh.txt"

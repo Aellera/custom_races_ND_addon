@@ -1,0 +1,43 @@
+government = old_imperial_government
+government_rank = 2
+technology_group = thestral
+religion = orthodox
+primary_culture = transylvanian
+capital = 4288	# 
+fixed_capital = 4288 # Cannot move capital away from this province & no power cost to move to it
+
+1428.4.10 = {
+	monarch = {
+		name = "Šalške"
+		dynasty = "Žaleškorja"
+		birth_date = 1409.1.14
+		female = yes
+		adm = 6
+		dip = 3
+		mil = 2
+    }
+	
+	queen = {
+		country_of_origin = ZSK
+		name = "Korškjyçatu"
+		dynasty = "Hanašbyc"
+		birth_date = 1410.1.19
+		adm = 2
+		dip = 3
+		mil = 2
+	}
+}
+
+1429.5.15 = {
+	heir = {
+		name = "Žyla"
+		dynasty = "Žaleškorja"
+		birth_date = 1429.5.15
+		female = yes
+		claim = 100
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+
