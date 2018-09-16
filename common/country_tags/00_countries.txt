@@ -5,7 +5,7 @@ NAT = "countries/Natives.txt"
 
 #Thestral Nations
 ISH = "countries/Ishkertsa.txt"
-ISH = "countries/Zestryska.txt"
+ZSK = "countries/Zestryska.txt"
 
 #Scandinavia
 SWE	= "countries/Sweden.txt"
