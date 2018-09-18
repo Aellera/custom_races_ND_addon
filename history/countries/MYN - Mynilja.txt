@@ -1,0 +1,18 @@
+government = merchant_monarchy
+government_rank = 2
+technology_group = thestral
+religion = orthodox
+primary_culture = transylvanian
+capital = 341 				#Mynilos Asiri
+
+1430.8.11 = {
+	monarch = {
+		name = "Mynillion"
+		dynasty = "Mynilliad"
+		birth_date = 1414.7.20
+		female = yes
+		adm = 3
+		dip = 3
+		mil = 3
+    }
+}
