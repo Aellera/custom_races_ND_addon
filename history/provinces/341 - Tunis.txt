@@ -3,7 +3,7 @@
 owner = MYN
 controller = MYN 
 culture = transylvanian
-religion = orthidox
+religion = orthodox
 capital = "Mynilos Asiri"
 trade_goods = cloth
 hre = no
