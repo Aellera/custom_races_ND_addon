@@ -1,0 +1,5 @@
+#Thestral Nations
+ISH = "countries/Ishkertsa.txt"
+ZSK = "countries/Zestryska.txt"
+ZEJ = "countries/Zejartsenaly.txt"
+MYN = "countries/Mynilja.txt"
