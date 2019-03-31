@@ -1,5 +1,5 @@
 name="Custom Races!"
-path="mod/custom_races_RD_addon"
+path="mod/custom_races_ND_addon"
 tags={
 	"Missions"
 	"and"
