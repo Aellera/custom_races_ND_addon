@@ -2,35 +2,35 @@
 # Merchant Monarchy Factions #Tzyca
 ########################################
 
-imp_beurocrats = 
-{
-	monarch_power = ADM
-	always = yes
-	
-	modifier = 
-	{
-		
-	}
-}
-
-imp_guilds = 
-{
-	monarch_power = DIP
-	always = yes
-	
-	modifier = 
-	{
-		
-	}
-}
-
-imp_nobility = 
-{
-	monarch_power = MIL
-	always = yes
-	
-	modifier = 
-	{
-		
-	}
-}
+#imp_beurocrats = 
+#{
+#	monarch_power = ADM
+#	always = yes
+#	
+#	modifier = 
+#	{
+#		
+#	}
+#}
+#
+#imp_guilds = 
+#{
+#	monarch_power = DIP
+#	always = yes
+#	
+#	modifier = 
+#	{
+#		
+#	}
+#}
+#
+#imp_nobility = 
+#{
+#	monarch_power = MIL
+#	always = yes
+#	
+#	modifier = 
+#	{
+#		
+#	}
+#}

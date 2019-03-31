@@ -10,15 +10,27 @@
 sysharric = {
 	graphical_culture = westerngfx
 
-	pommeranian = {
+	zhelnorya = {
 		male_names = {
-			
+			Itkoran
+			Sejran
+			Tyokar
+			Koronyjag Ksurten 
 		}
 		female_names = {
-			
+			Ellaeri
+			Anarthyeshe
+			Oreintha
+			Tsishkaira
+			Syxarena
+			Neshkya
+			Theilshkanna
 		}
 		dynasty_names = {
-			
+			"Tsy Narileusha"
+			"Tsy Klachikrulae"
+			"Tsy Arileushkaira"
+			"Tzy Zhelnorainaika"
 		}
 	}
 }
