@@ -59,22 +59,22 @@ asharritsan = {
 
 	sholnitsa = {
 		male_names = {
-			Golnatsin
-			Zorkathnan
-			Rekekhar
-			Telzhernor
+			Geuranakh
+			Zoreukhants
+			Rekhachnarr
+			Totteirall
 		}
 		female_names = {
 			Leuraeya
-			Natseirgela
-			Chennaura
-			Elshkerzha
-			Alnargiya
+			Neiraela
+			Chershkaelae
+			Eliznishkaura
+			Alngara
 		}
 		dynasty_names = {
-			"Lon Zhgokhorun"
-			"Lon Tsiyandog"
-			"Lon Tethlelrik"
+			"Teush Nerezga"
+			"Teush Gaelthshka"
+			"Teush Nashkrozhkaelth"
 		}
 	}
 }
