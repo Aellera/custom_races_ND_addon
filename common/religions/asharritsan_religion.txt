@@ -3,7 +3,7 @@
 # Uses all 'modifiers' possible thats exported as a Modifier.
 
 
-sysharric_group = {
+asharritsanii_group = {
 	sy_mother_goddess = {
 		icon = 30
 		color = { 198 143 196 }
