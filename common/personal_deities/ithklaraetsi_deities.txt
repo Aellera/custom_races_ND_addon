@@ -1,0 +1,21 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new dieties, make sure they are uniquely named.
+
+ash_mg_asharriatsaina = {
+	legitimacy = 0.25
+	devotion = 0.25
+	meritocracy = 0.25
+	global_institution_spread = 0.25
+	religious_unity = 0.5
+	
+	allow = {
+		religion = ash_mother_goddess
+		}	
+	}
+	
+	sprite = 90
+	
+	ai_will_do = {
+		factor = 1
+	}
+}

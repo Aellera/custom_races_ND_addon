@@ -1,0 +1,50 @@
+# If you add religions, and use those tags, do not change them without changing everywhere they are used.
+
+# Uses all 'modifiers' possible thats exported as a Modifier.
+
+
+ithklaraetsi_group = {
+	ash_mother_goddess = {
+		personal_deity = yes
+		icon = 90
+		color = { 198 143 196 }
+		province = {
+			local_development_cost = -0.2
+			local_institution_spread = 0.2
+		}
+		country = {
+			tolerance_own = 2
+			trade_efficiency = 0.1
+			discipline = 0.2
+			global_unrest = -0.5
+		}
+		country_as_secondary = {
+			merchants = 1
+			tolerance_own = 1
+		}
+		misguided_heretic = yes
+		crusade_name = mothers_calling
+	}
+	
+	ash_star_gods = {
+		personal_deity = yes
+		icon = 90
+		color = { 126 87 204 }
+		province = {
+			fort_level = 1
+			local_institution_spread = 0.2
+		}
+		country = {
+			tolerance_own = 2
+			defensiveness = 0.25
+			discipline = 0.2
+			naval_forcelimit_modifier = 0.2
+		}
+		country_as_secondary = {
+			merchants = 1
+			tolerance_own = 1
+		}
+		heretic = { ash_mother_goddess }
+		crusade_name = mothers_calling
+	}
+}
