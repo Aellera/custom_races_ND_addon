@@ -9,8 +9,7 @@ ash_mg_asharriatsaina = {
 	religious_unity = 0.5
 	
 	allow = {
-		religion = ash_mother_goddess
-		}	
+		religion = ash_mother_goddess	
 	}
 	
 	sprite = 90

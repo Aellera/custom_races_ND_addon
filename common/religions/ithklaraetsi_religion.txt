@@ -3,7 +3,7 @@
 # Uses all 'modifiers' possible thats exported as a Modifier.
 
 
-ithklaraetsi_group = {
+ithklaraetsiin_group = {
 	ash_mother_goddess = {
 		personal_deity = yes
 		icon = 90
