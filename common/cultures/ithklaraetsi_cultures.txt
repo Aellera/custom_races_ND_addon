@@ -7,7 +7,7 @@
 # graphical_culture = westerngfx
 # second_graphical_culture = muslimgfx (fallback if the first does not exist)
 
-asharritsan = {
+ithklaraetsiin = {
 	graphical_culture = westerngfx
 
 	zhelnorya = {
@@ -33,6 +33,9 @@ asharritsan = {
 			"Tsy Klachikrulae"
 			"Tsy Arileushkaira"
 			"Tsy Zhelnorainaika"
+			"Tsy Lenkerkeika"
+			"Tsy Urgnarthalika"
+			"Tsy Zhelnorainaika"
 		}
 	}
 
@@ -42,10 +45,11 @@ asharritsan = {
 			Zorkathnan
 			Rekekhar
 			Telzhernor
+			Kulnakren
 		}
 		female_names = {
-			Leuraeya
-			Natseirgela
+			Leuraeya Laeunarra
+			Natseirgela Nulagieya 
 			Chennaura
 			Elshkerzha
 			Alnargiya
@@ -54,27 +58,33 @@ asharritsan = {
 			"Lon Zhgokhorun"
 			"Lon Tsiyandog"
 			"Lon Tethlelrik"
+			"Lon Thelziizhk"
+			"Lon Dalsaliin"
 		}
 	}
 
 	sholnitsa = {
 		male_names = {
-			Geuranakh
+			Geuranakh Gruntiich
+			Khaksentat
 			Zoreukhants
 			Rekhachnarr
 			Totteirall
 		}
 		female_names = {
 			Leuraeya
+			Daelaina
 			Neiraela
 			Chershkaelae
 			Eliznishkaura
 			Alngara
 		}
 		dynasty_names = {
-			"Teush Nerezga"
-			"Teush Gaelthshka"
+			"Teush Nerezgat"
+			"Teush Gaelthshkat"
 			"Teush Nashkrozhkaelth"
+			"Teush Ksharsentsiat"
+			"Teush Klarshkorzhnat"
 		}
 	}
 }

@@ -1,7 +1,7 @@
 # Do not change tags in here without changing every other reference to them.
 # If adding new dieties, make sure they are uniquely named.
 
-ash_mg_asharriatsaina = {
+ith_mg_asharriatsaina = {
 	legitimacy = 0.25
 	devotion = 0.25
 	meritocracy = 0.25
@@ -9,7 +9,7 @@ ash_mg_asharriatsaina = {
 	religious_unity = 0.5
 	
 	allow = {
-		religion = ash_mother_goddess	
+		religion = ith_mother_goddess	
 	}
 	
 	sprite = 90

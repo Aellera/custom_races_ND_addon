@@ -4,7 +4,7 @@
 
 
 ithklaraetsiin_group = {
-	ash_mother_goddess = {
+	ith_mother_goddess = {
 		personal_deity = yes
 		icon = 90
 		color = { 198 143 196 }
@@ -26,7 +26,7 @@ ithklaraetsiin_group = {
 		crusade_name = mothers_calling
 	}
 	
-	ash_star_gods = {
+	ith_star_gods = {
 		personal_deity = yes
 		icon = 90
 		color = { 126 87 204 }
@@ -44,7 +44,7 @@ ithklaraetsiin_group = {
 			merchants = 1
 			tolerance_own = 1
 		}
-		heretic = { ash_mother_goddess }
+		heretic = { ith_mother_goddess }
 		crusade_name = mothers_calling
 	}
 }
