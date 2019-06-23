@@ -18,3 +18,62 @@ ith_mg_asharriatsaina = {
 		factor = 1
 	}
 }
+
+ith_cw_dudzoru = {
+	legitimacy = 0.25
+	devotion = 0.25
+	infantry_cost = -0.15
+	cavalry_cost = -0.15
+	artillery_cost = -0.15
+	global_manpower_modifier = 0.2
+	
+	allow = {
+		religion = ith_star_gods	
+	}
+	
+	sprite = 90
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+ith_cw_llathanaria = {
+	legitimacy = 0.25
+	devotion = 0.25
+	global_tax_modifier = 0.08
+	production_efficiency = 0.1
+	development_cost = -0.1
+	build_cost = -0.1	
+	global_trade_power = 0.05
+	global_own_trade_power = 0.1
+	
+	allow = {
+		religion = ith_star_gods	
+	}
+	
+	sprite = 90
+	
+	ai_will_do = {
+		factor = 1
+	}
+}
+
+ith_cw_tsynoraana = {
+	legitimacy = 0.25
+	devotion = 0.25
+	stability_cost_modifier = -0.5
+	technology_cost = -0.2
+	idea_cost = -0.1
+	global_institution_spread = 0.2
+	
+	allow = {
+		religion = ith_star_gods	
+	}
+	
+	sprite = 90
+	
+	ai_will_do = {
+		factor = 1
+	}
+}

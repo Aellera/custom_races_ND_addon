@@ -3,7 +3,7 @@
  #Culture
  ithklaraetsiin: "Ithklaraetsiin"
  zhelnorya: "Zhelnorian"
- tankrogo:  "Tankrogo"
+ tanksogo:  "Tanksogo"
  sholnitsa:  "Sholnitsa"
  
  
@@ -13,6 +13,12 @@
  ith_mother_goddess: "Mother Goddess Asharriatsaina"
  mothers_calling: "Mother's Calling"
  ith_mg_asharriatsaina: "Asharriatsaina, Mother of the Ithklaraetsi"
- ith_mg_asharriatsaina_desc: "Asharriatsaina, Worshipped as the mother of the race of Bats called the Ithklaraetsi"
+ ith_mg_asharriatsaina_desc: "Asharriatsaina, Worshipped as the mother of the race of Bats called the Ithklaraetsi."
  
- ith_star_gods: "Dieties of the Stars"
+ ith_star_gods: "Celestial Worship"
+ ith_cw_dudzoru: "Celestial Dudzoruti"
+ ith_cw_dudzoru_desc: "The Celestial of War, Favoured by the warmongers of the Ithklaraetsi."
+ ith_cw_llathanaria: "Celestial Llathanaria"
+ ith_cw_llathanaria_desc: "The Celestial of Peace and Growth, Worshiped by those who practice mercantilism."
+ ith_cw_tsynoraana: "Celestial Tsynoraana"
+ ith_cw_tsynoraana_desc: "The Celestial of Magic, the matron of the stars and pursuer of progress."

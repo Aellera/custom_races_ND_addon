@@ -39,9 +39,9 @@ ithklaraetsiin = {
 		}
 	}
 
-	tankrogo = {
+	tanksogo = {
 		male_names = {
-			Golnatsin
+			Golnatsin Galothari
 			Zorkathnan
 			Rekekhar
 			Telzhernor
